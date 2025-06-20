@@ -3,10 +3,9 @@
 **`Estudante de Tecnologia`**
 - 🔭 Estou cursando o 3º ano do Curso Técnico em Informática no IFPB – Campus Cajazeiras
 - 🌱 Atualmente estou aprendendo HTML e CSS
-- 🚀 Interessada em desenvolvimento web e programação
+- 🚀 Me interesso por desenvolvimento web e programação
 
-
-
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -34,6 +33,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -42,7 +42,3 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
